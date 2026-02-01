@@ -1,1 +1,7 @@
 # ESTADO-DEL-ARTE-HACKRFONE
+
+¿Qué es y por qué es importante? El Estado del Arte de este proyecto consiste en una revisión de las tecnologías, herramientas y estándares más avanzados que existen actualmente en el sector. No se trata solo de ver qué hay disponible, sino de entender cuál es la "vanguardia" técnica para asegurar que este desarrollo es novedoso y necesario. Este análisis permite identificar qué soluciones ya existen para no duplicar trabajo y detectar oportunidades de mejora que este proyecto aprovecha.
+
+Proceso de Investigación Para desarrollar esta sección, se ha realizado una búsqueda y filtrado de información reciente, consultando documentación técnica, repositorios actuales y artículos especializados. El proceso se dividió en dos partes: primero, la recopilación de datos sobre cómo se resuelven problemas similares hoy en día; y segundo, el análisis de esa información para seleccionar las mejores herramientas y metodologías aplicables a este TFG.
+
+Diferencias y Valor Aportado A diferencia de los antecedentes (que miran la historia) o el marco teórico (que define conceptos), el Estado del Arte se centra en el "ahora". Esta revisión valida que las tecnologías elegidas son las más adecuadas y modernas para el desarrollo del proyecto. Básicamente, confirma que el proyecto está actualizado con las tendencias del mercado y aporta una solución técnica competitiva y bien fundamentada.
